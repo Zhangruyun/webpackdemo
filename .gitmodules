@@ -1,0 +1,6 @@
+[submodule "src/assets/scripts/charts"]
+	path = src/assets/scripts/charts
+	url = https://github.com/w3stone/charts.git
+[submodule "src/components/filterItems"]
+	path = src/components/filterItems
+	url = https://github.com/w3stone/filterItems.git
